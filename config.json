@@ -1,0 +1,35 @@
+{
+  "ownerNumber": "6289653381067@s.whatsapp.net",
+  "ownerName": "xy",
+  "botName": "Ghosky Bot",
+  "sessionName": "rtwone-md",
+  "pathimg": "./media/chibot.jpg",
+  "lolkey": "SGWN",
+  "xteamkey": "Cristian9407",
+  "apikey": "c8bd971263d12418002313189eaa807a4fcfaa7c547ce02ef59bd01212dcc265",
+  "igCookie": "csrftoken=hWgxgRcZOMCaNMYtzgf0Vkd2GIfNkTSC; sessionid=56595727453%3ATLPsrXhrQ7kqZe%3A5%3AAYdAsj6vuTFqtpzuVY1bVcRwyjTbL0Cd_Wsey0dGNw; ds_user_id=56595727453;",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+    "prem": 35,
+    "user": 15
+  },
+  "packname": "Ghosky",
+  "author": "IG : @w_.nunu",
+  "playlist": [
+    "https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc",
+    "https://open.spotify.com/playlist/0YwsIE2snT3jzhdojbvibe",
+    "https://open.spotify.com/playlist/3ymFw4cKXBybR5AjUd6HGb"
+  ],
+  "payment": {
+    "gopay": {
+      "nomer": "-",
+      "atas_nama": "-"
+    },
+    "dana": {
+      "nomer": "6289653381067",
+      "atas_nama": "Puputraaa"
+    }
+  },
+  "id_group": "120363046159821535@g.us"
+}
